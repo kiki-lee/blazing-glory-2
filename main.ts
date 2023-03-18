@@ -22,6 +22,10 @@ for (let index = 0; index <= 2; index++) {
 let finish = sprites.create(assets.image`finishLine`, SpriteKind.Finish)
 finish.x = 0
 info.setLife(5)
+game.onUpdateInterval(1100, function () {
+    projectile = sprites.createProjectileFromSide(assets.image`fireball`, -75, 0)
+    projectile.y = randint(0, 120)
+})
 game.onUpdateInterval(900, function () {
     projectile = sprites.createProjectileFromSide(assets.image`fireball`, -75, 0)
     projectile.y = randint(0, 120)

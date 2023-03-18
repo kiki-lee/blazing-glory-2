@@ -1,0 +1,32 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAEQkAgAAAABE1VUtIAAAQF3VVUUiAgBAVRVR1SICAEQdEdHdJCQAVBVRFVEtJABUFVERUUUkAFTVVRFRRSQA1N0RVVVNJABAXREV0S0kAEBdVR3RJAIAQFRVXVUkAgBARNRdRQAAAAAARCQCAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fireball"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAMQMAAAAQARAM8QAAABAQzQzMwwAAEAiQzwzxAAARCQiwzPDAEAkQiLCM8MARCIiJEIzwwAkJCQyJDLDACRMLCIiIsNEJPJUIiIiwiIkUlUiIiLCRCRVVSIiIkIAQFVVIiIiRAAAXEUkIjIEAABQBEBERAAAAEAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "red duck"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAMsMAAAAsAuwiMsAAACwvYuIiAwAALBmuIyIywAAu2tmyIjIALBrtmbGiMgAu2Zma7aIyABra2vWa4bIAGu8bGZmZsi7a/ZLZmZmxmZr1kRmZmbGu2vdRGZmZrYAsEREZmZmuwAATLRrZtYLAABAC7C7uwAAALAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "blue duck"
+    },
+    "p7I@x)wGtLkpOtwZ": {
+        "data": "hwQQABAAAAAAAAAAAMsMAAAAsAuw3csAAACwvdvd3QwAALBVvdzdywAAu1tVzd3NALBbtVXF3c0Au1VVW7XdzQBbW1vVW9XNAFu8XFVVVc27W/VLVVVVxVVb1URVVVXFu1vdRFVVVbUAsEREVVVVuwAATLRbVdULAABAC7C7uwAAALAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "orange duck"
+    },
+    "image1": {
+        "data": "hwQCAHgAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "finishLine"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
